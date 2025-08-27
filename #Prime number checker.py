@@ -1,5 +1,5 @@
 #Prime number checker
-"""def check(n):
+def check(n):
     if n <= 1:
         return False
     for i in range(2,n):
@@ -11,4 +11,4 @@ num = int(input("enter:"))
 if check(num):
     print("Its a prime.")
 else:
-    print("Not a prime.")"""
+    print("Not a prime.")
