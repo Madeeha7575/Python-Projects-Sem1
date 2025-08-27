@@ -6,7 +6,7 @@ A collection of beginner-friendly Python projects I built during my vacation bef
 1. **Calculator App** 🧮  
    - Performs addition, subtraction, multiplication, and division.  
 
-2. **To-Do List (CLI)** ✅  
+2. **To-Do List** ✅  
    - Add, view, and remove tasks from a text file.  
 
 3. **Rock-Paper-Scissors Game** ✊✋✌️  
